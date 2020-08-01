@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/Tweet-App/static/css/main.30ab368b.chunk.css",
-    "main.js": "/Tweet-App/static/js/main.82d56e7c.chunk.js",
-    "main.js.map": "/Tweet-App/static/js/main.82d56e7c.chunk.js.map",
+    "main.js": "/Tweet-App/static/js/main.eeae2308.chunk.js",
+    "main.js.map": "/Tweet-App/static/js/main.eeae2308.chunk.js.map",
     "runtime-main.js": "/Tweet-App/static/js/runtime-main.eaef9002.js",
     "runtime-main.js.map": "/Tweet-App/static/js/runtime-main.eaef9002.js.map",
     "static/css/2.af3c1da9.chunk.css": "/Tweet-App/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.0d6cffe9.chunk.js": "/Tweet-App/static/js/2.0d6cffe9.chunk.js",
-    "static/js/2.0d6cffe9.chunk.js.map": "/Tweet-App/static/js/2.0d6cffe9.chunk.js.map",
+    "static/js/2.7a282025.chunk.js": "/Tweet-App/static/js/2.7a282025.chunk.js",
+    "static/js/2.7a282025.chunk.js.map": "/Tweet-App/static/js/2.7a282025.chunk.js.map",
     "index.html": "/Tweet-App/index.html",
-    "precache-manifest.67168256505981191c7e05a1c9a9954f.js": "/Tweet-App/precache-manifest.67168256505981191c7e05a1c9a9954f.js",
+    "precache-manifest.19259bda737e6217d7ebc442f52c397a.js": "/Tweet-App/precache-manifest.19259bda737e6217d7ebc442f52c397a.js",
     "service-worker.js": "/Tweet-App/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/Tweet-App/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.30ab368b.chunk.css.map": "/Tweet-App/static/css/main.30ab368b.chunk.css.map",
-    "static/js/2.0d6cffe9.chunk.js.LICENSE.txt": "/Tweet-App/static/js/2.0d6cffe9.chunk.js.LICENSE.txt"
+    "static/js/2.7a282025.chunk.js.LICENSE.txt": "/Tweet-App/static/js/2.7a282025.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.eaef9002.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.0d6cffe9.chunk.js",
+    "static/js/2.7a282025.chunk.js",
     "static/css/main.30ab368b.chunk.css",
-    "static/js/main.82d56e7c.chunk.js"
+    "static/js/main.eeae2308.chunk.js"
   ]
 }
