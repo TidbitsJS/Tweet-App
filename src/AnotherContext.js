@@ -53,7 +53,15 @@ export class Provider extends React.Component {
   async componentDidMount() {
     let tweets = window.localStorage.getItem('tweets')
     if (tweets) tweets = JSON.parse(tweets)
-    if (!tweets) tweets = []
+    if (!tweets) tweets = [
+      {
+        id: 1,
+        name:'Sujata Gunale',
+        username: '@tidbitsjs',
+        profile: null,
+        tweet: 'I know its hard. It was hard yesterday. It is hard today. It will be hard tomorrow. But as you continue to do it, day-after-day, code-after-code, guess what? You will IMPROVE. It will get easier. So buckle up and start typing on your keyboard. What needs to be done, must be done'
+      }
+    ]
 
     this.setState({tweets: tweets})
   }
